@@ -1,4 +1,5 @@
-﻿# 
+﻿
+# .ExternalHelp Excel.psm1-help.xml
 function Get-WorkSheetNames {
     [CmdletBinding()] #Write As a ScriptCmndlet
     Param (
